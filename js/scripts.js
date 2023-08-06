@@ -68,7 +68,7 @@ const addToMetamask = async () => {
             params: {
                 type: 'ERC20',
                 options: {
-                    address: '0x891B7fBf3429441cc715e09aeD43F4Cd53c50A73',
+                    address: '0x083492458ceb2C358C6FC4aFC78fA79765153b1B',
                     symbol: 'FCORN',
                     decimals: 18,
                     image: 'https://flufficorntoken.github.io/assets/img/logo.png'
